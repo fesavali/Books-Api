@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="error_loading_data_from_the_google_api">Error Loading Data From The Google API</string>
+    <string name="title_textvie">Title TextView</string>
+    <string name="publisher">Publisher</string>
+    <string name="published_date">Published Date</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+</resources>
